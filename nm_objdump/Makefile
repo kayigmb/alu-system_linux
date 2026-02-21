@@ -44,4 +44,3 @@ clean:
 
 # Declaring phony targets to avoid conflicts with files of the same name
 .PHONY: all clean debug
-
